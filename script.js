@@ -1,9 +1,9 @@
 const fotos = [
-  "imagenes/foto1.png",
-  "imagenes/foto2.png",
-  "imagenes/foto3.png",
-  "imagenes/foto4.png",
-  "imagenes/foto5.png"
+  "foto1.png",
+  "foto2.png",
+  "foto3.png",
+  "foto4.png",
+  "foto5.png"
 ];
 
 const imagen = document.getElementById("fotoCarrusel");
